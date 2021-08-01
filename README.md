@@ -99,21 +99,22 @@ else:
 
 ## Lista III
 esta é uma frase com intuito de teste de formatação
+teste
+teste
+teste
 
-teste
-teste
-teste
+
 
 ## Lista IV
 esta é uma frase com intuito de teste de formatação
+teste
+teste
+teste
 
-teste
-teste
-teste
+
 
 ## Lista 6 Coding Bat
 esta é uma frase com intuito de teste de formatação
-
 teste
 teste
 teste
