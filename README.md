@@ -29,6 +29,8 @@ else:
 
 - B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
 
+- [Resolução ↓]
+
 ano = int(input('Qual ano deseja saber se é Bissexto?: '))
 
 if (ano % 4 == 0 and ano % 100 != 0) or (ano % 400 == 0):
