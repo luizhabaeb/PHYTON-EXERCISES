@@ -60,5 +60,7 @@ p = int(input('Peso dos peixes: '))
 else:
     
     multa = excesso = 0
+
 print ('Multa de R$ %.2f' %multa)
+
 print ('Excesso: %.2f' %excesso)
