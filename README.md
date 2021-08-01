@@ -52,7 +52,7 @@ variáveis com o conteúdo ZERO.
 
 p = int(input('Peso dos peixes: '))
 
-if p > 50:
+    if p > 50:
     
     excesso = p - 50
     multa = excesso * 4
@@ -60,7 +60,5 @@ if p > 50:
 else:
     
     multa = excesso = 0
-
 print ('Multa de R$ %.2f' %multa)
-
 print ('Excesso: %.2f' %excesso)
