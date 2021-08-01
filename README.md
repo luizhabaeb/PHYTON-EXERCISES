@@ -70,6 +70,8 @@ print ('Excesso: %.2f' %excesso)
 
 - D. Faça um Programa que leia três números e mostre o maior deles.
 
+- [Resolução ↓]
+
 a = int(input('Digite o 1º número: '))
 
 b = int(input('Digite o 2º número: '))
