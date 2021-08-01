@@ -2,6 +2,8 @@
 Exercícios da matéria de Algoritmos e Lógica Programação - Prof. Fernando Masanori - FATEC SÃO JOSÉ DOS CAMPOS/SP
 - [Lista II](##Lista-II)
 - [Lista III](##Lista-III)
+- [Lista IV](##Lista-IV)
+- [Lista 6 - Coding Bat](##Lista-6-Coding-Bat)
 
 ## Lista II
 - A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
@@ -95,6 +97,20 @@ else:
 
 
 ## Lista III
+esta é uma frase com intuito de teste de formatação
+
+teste
+teste
+teste
+
+## Lista IV
+esta é uma frase com intuito de teste de formatação
+
+teste
+teste
+teste
+
+## Lista 6 Coding Bat
 esta é uma frase com intuito de teste de formatação
 
 teste
