@@ -68,6 +68,29 @@ print ('Multa de R$ %.2f' %multa)
 
 print ('Excesso: %.2f' %excesso)
 
+- D. Faça um Programa que leia três números e mostre o maior deles.
+
+a = int(input('Digite o 1º número: '))
+
+b = int(input('Digite o 2º número: '))
+
+c = int(input('Digite o 3º número: '))
+
+if a > b and a > c:
+    
+    print ('Maior é o: %d' &a)
+elif b > c:
+    
+    print ('Maior é o: %d' %b)
+else:
+    
+    print ('Maior é o: %d' %c)
+
+
+
+
+
+
 
 ## Lista III
 esta é uma frase com intuito de teste de formatação
