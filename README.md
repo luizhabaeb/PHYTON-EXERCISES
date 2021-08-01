@@ -26,3 +26,15 @@ elif a == b or b == c or a == c:
 else:
     
     print ('É um triângulo Escaleno')
+
+- B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
+
+ano = int(input('Qual ano deseja saber se é Bissexto?: '))
+
+if (ano % 4 == 0 and ano % 100 != 0) or (ano % 400 == 0):
+    
+    print ('Este é um ano Bissexto!')
+
+else:
+    
+    print ('Não é um ano Bissexto!')
