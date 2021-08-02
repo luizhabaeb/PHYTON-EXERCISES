@@ -9,7 +9,7 @@ Exercícios da matéria de Algoritmos e Lógica Programação - Prof. Fernando M
 ## Lista 2
 > A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 
-#### - [Resolução ↓]
+#### • [Resolução ↓]
 
 a = int(input('Lado A: '))
 
@@ -35,7 +35,7 @@ else:
 
 > B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
 
-- [Resolução ↓]
+#### • [Resolução ↓]
 
 ano = int(input('Qual ano deseja saber se é Bissexto?: '))
 
@@ -54,7 +54,7 @@ faça um programa que leia a variável peso (peso de peixes) e verifique se há 
 variável excesso e na variável multa o valor da multa que João deverá pagar. Caso contrário mostrar tais
 variáveis com o conteúdo ZERO.
 
-#### [Resolução ↓]
+#### • [Resolução ↓]
 
 p = int(input('Peso dos peixes: '))
 
@@ -73,7 +73,7 @@ print ('Excesso: %.2f' %excesso)
 
 > D. Faça um Programa que leia três números e mostre o maior deles.
 
-- [Resolução ↓]
+#### • [Resolução ↓]
 
 a = int(input('Digite o 1º número: '))
 
@@ -93,7 +93,7 @@ else:
 
 > E. Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-- [Resolução ↓] 
+#### • [Resolução ↓] 
 
 a = int(input('Digite o 1º número: '))
 
@@ -130,6 +130,32 @@ b.- IR (11%) : R$
 c.- INSS (8%) : R$
 d.- Sindicato ( 5%) : R$
 e.= Salário Liquido : R$
+
+#### • [Resolução ↓]
+
+S = float(input('Salário por hora: '))
+
+H = int(input('Horas trabalhadas: '))
+
+BRUTO = S * H
+
+IR = BRUTO * 0.11
+
+INSS = BRUTO *0.08
+
+SINDICATO = BRUTO *0.05
+
+LIQUIDO = BRUTO - IR - INSS - SINDICATO
+
+print ('+Salário Bruto:\t\t R$ %10.2f' %BRUTO)
+
+print ('-IR:\t\t\t R$ %10.2f' %IR)
+
+print ('-INSS:\t\t\t R$ %10.2f' %INSS)
+
+print ('-Sindicato:\t\t R$ %10.2f' %SINDICATO)
+
+print ('=Salário Líquido:\t R$ %2.f' %LIQUIDO)
 
 ## Lista 3
 - esta é uma frase com intuito de teste de formatação
