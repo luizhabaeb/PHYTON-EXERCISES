@@ -33,6 +33,7 @@ else:
     
     print ('É um triângulo Escaleno')
 
+
 > B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
 
 #### • [Resolução ↓]
@@ -46,6 +47,7 @@ if (ano % 4 == 0 and ano % 100 != 0) or (ano % 400 == 0):
 else:
     
     print ('Não é um ano Bissexto!')
+
 
 > C. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de
 seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do
@@ -71,6 +73,7 @@ print ('Multa de R$ %.2f' %multa)
 
 print ('Excesso: %.2f' %excesso)
 
+
 > D. Faça um Programa que leia três números e mostre o maior deles.
 
 #### • [Resolução ↓]
@@ -90,6 +93,7 @@ elif b > c:
 else:
     
     print ('Maior é o: %d' %c)
+
 
 > E. Faça um Programa que leia três números e mostre o maior e o menor deles.
 
@@ -120,6 +124,7 @@ elif b < c:
 else:
     
     print ('Menor é o: %d' %c)
+
 
 > F. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule
 e mostre o total do seu salário no referido mês, sabendo se que são descontados 11% para o Imposto de Renda,
