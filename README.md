@@ -1,12 +1,12 @@
 # PHYTON-EXERCISES
 Exercícios da matéria de Algoritmos e Lógica Programação - Prof. Fernando Masanori - FATEC SÃO JOSÉ DOS CAMPOS/SP
 ## LISTAS DE EXERCÍCIOS - https://www.pycursos.com/python-para-zumbis/
-- [Lista II](##Lista-II)
-- [Lista III](##Lista-III)
-- [Lista IV](##Lista-IV)
+- [Lista 2](##Lista-2)
+- [Lista 3](##Lista-3)
+- [Lista 4](##Lista-4)
 - [Lista 6 - Coding Bat](##Lista-6-Coding-Bat)
 
-## Lista II
+## Lista 2
 - A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 
 - [Resolução ↓]
@@ -97,7 +97,7 @@ else:
 
 
 
-## Lista III
+## Lista 3
 - esta é uma frase com intuito de teste de formatação
 teste
 teste
@@ -105,7 +105,7 @@ teste
 
 
 
-## Lista IV
+## Lista 4
 - esta é uma frase com intuito de teste de formatação
 teste
 teste
