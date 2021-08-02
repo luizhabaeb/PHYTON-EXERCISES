@@ -7,7 +7,7 @@ Exercícios da matéria de Algoritmos e Lógica Programação - Prof. Fernando M
 - [Lista 6 - Coding Bat](##Lista-6-Coding-Bat)
 
 ## Lista 2
-- A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+> A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 
 - [Resolução ↓]
 
@@ -33,7 +33,7 @@ else:
     
     print ('É um triângulo Escaleno')
 
-- B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
+> B. Determine se um ano é bissexto. Verifique no Google como fazer isso...
 
 - [Resolução ↓]
 
@@ -47,7 +47,7 @@ else:
     
     print ('Não é um ano Bissexto!')
 
-- C. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de
+> C. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de
 seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do
 estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você
 faça um programa que leia a variável peso (peso de peixes) e verifique se há excesso. Se houver, gravar na
@@ -91,7 +91,7 @@ else:
     
     print ('Maior é o: %d' %c)
 
-- E. Faça um Programa que leia três números e mostre o maior e o menor deles.
+> E. Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 - [Resolução ↓] 
 
@@ -121,7 +121,7 @@ else:
     
     print ('Menor é o: %d' %c)
 
-- F. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule
+> F. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule
 e mostre o total do seu salário no referido mês, sabendo se que são descontados 11% para o Imposto de Renda,
 8% para o INSS e 5% para o sindicato, faça um programa que nos dê o salário bruto, quanto pagou ao INSS, quanto pagou ao sindicato
 e  o salário líquido. Observe que Salário Bruto - Descontos = Salário Líquido. Calcule os descontos e o salário líquido, conforme a tabela abaixo:
