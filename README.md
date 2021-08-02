@@ -54,7 +54,7 @@ faça um programa que leia a variável peso (peso de peixes) e verifique se há 
 variável excesso e na variável multa o valor da multa que João deverá pagar. Caso contrário mostrar tais
 variáveis com o conteúdo ZERO.
 
-- [Resolução ↓]
+#### [Resolução ↓]
 
 p = int(input('Peso dos peixes: '))
 
@@ -71,7 +71,7 @@ print ('Multa de R$ %.2f' %multa)
 
 print ('Excesso: %.2f' %excesso)
 
-- D. Faça um Programa que leia três números e mostre o maior deles.
+> D. Faça um Programa que leia três números e mostre o maior deles.
 
 - [Resolução ↓]
 
