@@ -169,11 +169,14 @@ compradas e o preço total.
 OBS.: somente são vendidos um número inteiro de latas.
 
 #### • [Resolução ↓]
+
 m = int(input('Metros: '))
 
 if m % 54 != 0:
+    
     latas = int(m / 54) + 1
 else:
+    
     latas = m / 54
 
 valor = latas * 80
