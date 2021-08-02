@@ -91,27 +91,17 @@ else:
     
     print ('Maior é o: %d' %c)
 
-
-
-
-
-
-
 ## Lista 3
 - esta é uma frase com intuito de teste de formatação
 teste
 teste
 teste
 
-
-
 ## Lista 4
 - esta é uma frase com intuito de teste de formatação
 teste
 teste
 teste
-
-
 
 ## Lista 6 Coding Bat
 - esta é uma frase com intuito de teste de formatação
