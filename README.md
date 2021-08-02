@@ -9,7 +9,7 @@ Exercícios da matéria de Algoritmos e Lógica Programação - Prof. Fernando M
 ## Lista 2
 > A. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 
-#### [Resolução ↓]
+#### - [Resolução ↓]
 
 a = int(input('Lado A: '))
 
